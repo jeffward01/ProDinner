@@ -1,0 +1,4 @@
+C:\Dev\github\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.dll
+C:\Dev\github\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Dev\github\prodinnner\prodinner\Core\obj\Debug\Omu.ProDinner.Core.dll
+C:\Dev\github\prodinnner\prodinner\Core\obj\Debug\Omu.ProDinner.Core.pdb

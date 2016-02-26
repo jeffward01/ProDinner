@@ -1,0 +1,12 @@
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Service.dll
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Service.pdb
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.Drawing.dll
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.Encrypto.dll
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Core.dll
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.ValueInjecter.dll
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.ValueInjecter.pdb
+C:\Dev\github\prodinnner\prodinner\Service\bin\Debug\Omu.ValueInjecter.xml
+C:\Dev\github\prodinnner\prodinner\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Dev\github\prodinnner\prodinner\Service\obj\Debug\Omu.ProDinner.Service.dll
+C:\Dev\github\prodinnner\prodinner\Service\obj\Debug\Omu.ProDinner.Service.pdb

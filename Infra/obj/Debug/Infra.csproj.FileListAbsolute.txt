@@ -1,0 +1,17 @@
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Infra.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Infra.pdb
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Castle.Core.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Castle.Windsor.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Resources.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Omu.ProDinner.Resources.pdb
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Castle.Core.xml
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\Castle.Windsor.xml
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\de\Omu.ProDinner.Resources.resources.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\es\Omu.ProDinner.Resources.resources.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\fr\Omu.ProDinner.Resources.resources.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\it\Omu.ProDinner.Resources.resources.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\ro\Omu.ProDinner.Resources.resources.dll
+C:\Dev\github\prodinnner\prodinner\Infra\bin\Debug\ru\Omu.ProDinner.Resources.resources.dll
+C:\Dev\github\prodinnner\prodinner\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Dev\github\prodinnner\prodinner\Infra\obj\Debug\Omu.ProDinner.Infra.dll
+C:\Dev\github\prodinnner\prodinner\Infra\obj\Debug\Omu.ProDinner.Infra.pdb

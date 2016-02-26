@@ -11,7 +11,7 @@ namespace Omu.ProDinner.WebUI.App_Start
 {
     public class Bootstrapper
     {
-        public static void Bootstrap()
+        public void Bootstrap()
         {
             RouteConfigurator.RegisterRoutes(RouteTable.Routes);
             ControllerBuilder.Current.SetControllerFactory(new WindsorControllerFactory(IoC.Container));

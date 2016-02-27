@@ -1,0 +1,5 @@
+C:\Dev\github\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.dll
+C:\Dev\github\prodinnner\prodinner\Core\bin\Debug\Omu.ProDinner.Core.pdb
+C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\SpecsForMvc.TempIntermediateDir\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\SpecsForMvc.TempIntermediateDir\Debug\Omu.ProDinner.Core.dll
+C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\SpecsForMvc.TempIntermediateDir\Debug\Omu.ProDinner.Core.pdb

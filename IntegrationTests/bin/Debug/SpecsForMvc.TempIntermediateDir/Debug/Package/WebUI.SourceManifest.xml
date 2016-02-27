@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\SpecsForMvc.TestSite" managedRuntimeVersion="v4.0" />
+  <setAcl path="C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\SpecsForMvc.TestSite" setAclResourceType="Directory" />
+  <setAcl path="C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\SpecsForMvc.TestSite" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

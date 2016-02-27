@@ -28,6 +28,7 @@ namespace IntegrationTests
                 .With(Project.Named("WebUI"));
 
             config.BuildRoutesUsing(r => routeCongiurator.Bootstrap());
+            config.UseBrowser(BrowserDriver.Chrome);
             config.Use<TestSeedData>();
             config.AuthenticateBeforeEachTestUsing<RegularUserAuthenticator>();
 

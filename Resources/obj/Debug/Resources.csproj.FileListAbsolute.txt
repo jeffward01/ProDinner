@@ -22,3 +22,4 @@ C:\Dev\github\prodinnner\prodinner\Resources\obj\Debug\es\Omu.ProDinner.Resource
 C:\Dev\github\prodinnner\prodinner\Resources\obj\Debug\fr\Omu.ProDinner.Resources.resources.dll
 C:\Dev\github\prodinnner\prodinner\Resources\obj\Debug\Omu.ProDinner.Resources.dll
 C:\Dev\github\prodinnner\prodinner\Resources\obj\Debug\Omu.ProDinner.Resources.pdb
+C:\Dev\github\prodinnner\prodinner\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache

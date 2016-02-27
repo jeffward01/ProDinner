@@ -17,7 +17,8 @@ namespace Omu.ProDinner.WebUI
     {
         protected void Application_Start()
         {
-            Bootstrapper.Bootstrap();
+            Bootstrapper bootstrapper = new Bootstrapper();
+            bootstrapper.Bootstrap();
         }
 
         protected void Application_BeginRequest(object sender, EventArgs e)

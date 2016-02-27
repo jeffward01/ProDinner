@@ -87,6 +87,12 @@ namespace Omu.ProDinner.WebUI.Controllers
             return RedirectToAction("index", "home");
         }
 
+        //Jeff Added this method
+        public ActionResult Index()
+        {
+            return RedirectToAction("index", "home");
+        }
+
         public ActionResult SignOff()
         {
             Authentication.SignOut();

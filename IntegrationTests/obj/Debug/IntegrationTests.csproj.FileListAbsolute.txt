@@ -30,7 +30,6 @@ C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\System.Web.WebPage
 C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\System.Web.WebPages.Razor.dll
 C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\WebDriver.dll
 C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\WebDriver.Support.dll
-C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\EntityFramework.dll
 C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\Omu.ValueInjecter.dll
 C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\Castle.Windsor.dll
 C:\Dev\github\prodinnner\prodinner\IntegrationTests\bin\Debug\Omu.Encrypto.dll
